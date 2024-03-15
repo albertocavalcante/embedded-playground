@@ -15,6 +15,8 @@ sudo dpkg -i tinygo_${TINYGO_VERSION}_amd64.deb
 rm tinygo_*_amd64.deb
 ```
 
+The official installation guide can be founs [here](https://tinygo.org/getting-started/install/linux/#ubuntudebian).
+
 ### Usage
 
 List available targets for ESP32
