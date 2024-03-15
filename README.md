@@ -18,7 +18,6 @@ usbipd list
 You should see an output should be similar to this:
 
 ```sh
-Connected:
 BUSID  VID:PID    DEVICE                                                        STATE
 2-3    0d28:0204  USB Mass Storage Device, Dispositivo Serial USB (COM3), D...  Not shared
 2-4    046d:c52b  Logitech USB Input Device, Dispositivo de Entrada USB         Not shared
