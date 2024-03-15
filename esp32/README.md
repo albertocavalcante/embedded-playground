@@ -13,6 +13,12 @@ In summary, considering you already have Python installed, execute:
 pip install esptool
 ```
 
+Validate the installation by executing:
+
+```sh
+esptool.py flash_id
+```
+
 ## Reference
 
 - [nanoESP32-C3](https://github.com/wuxx/nanoESP32-C3)
